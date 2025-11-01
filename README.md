@@ -41,28 +41,34 @@ Currently developing cloud-native solutions and automation workflows that enhanc
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <!-- PROJECT 1 -->
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/IsaacRomanSerrano/portfolio" target="_blank">
-        <p align="center">
-          <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro1.png" alt="Portfolio project" width="100%" />
+        <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro1.png" alt="Portfolio project" width="100%" />
         <h3>Portfolio deployed through AWS</h3>
-        <p>Personal portfolio website hosted on AWS S3 and deployed via Route 53 and CloudFront. Includes responsive design and integrated CV.</p>
+        <p align="justify" style="min-height: 90px;">
+          Personal portfolio website hosted on AWS S3 and deployed via Route 53 and CloudFront. Includes responsive design and integrated CV.
+        </p>
       </a>
     </td>
-    <td width="33%" align="center">
+    <!-- PROJECT 2 -->
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/IsaacRomanSerrano/Dockerized-App" target="_blank">
-        <p align="center">
-          <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro2.png" alt="Dockerized App" width="100%" />
+        <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro2.png" alt="Dockerized App" width="100%" />
         <h3>Dockerized App: Deployed on ECS Fargate</h3>
-        <p>Containerized web application deployed on AWS EKS with CI/CD integration and scalable architecture.</p>
+        <p align="justify" style="min-height: 90px;">
+          Containerized web application deployed on AWS EKS with CI/CD integration and scalable architecture.
+        </p>
       </a>
     </td>
-    <td width="33%" align="center">
+    <!-- PROJECT 3 -->
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/IsaacRomanSerrano/Infrastructure-as-Code" target="_blank">
-        <p align="center">
-          <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro3.png" alt="Terraform IaC" width="100%" />
+        <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro3.png" alt="Terraform IaC" width="100%" />
         <h3>Infrastructure as Code: Terraform</h3>
-        <p>Infrastructure automation using Terraform to provision a secure AWS environment including networking and compute resources.</p>
+        <p align="justify" style="min-height: 90px;">
+          Infrastructure automation using Terraform to provision a secure AWS environment including networking and compute resources.
+        </p>
       </a>
     </td>
   </tr>
@@ -76,3 +82,4 @@ Currently developing cloud-native solutions and automation workflows that enhanc
   <a href="mailto:isaacromanserrano@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://isaacromanserrano.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-0078D4?style=for-the-badge&logo=google-chrome" /></a>
 </p>
+
