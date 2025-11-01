@@ -41,8 +41,7 @@ Currently developing cloud-native solutions and automation workflows that enhanc
 
 <table>
   <tr>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 300px; text-align: center;">
+    <td width="33%" align="center">
       <a href="https://github.com/IsaacRomanSerrano/portfolio" target="_blank">
         <p align="center">
           <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro1.png" alt="Portfolio project" width="100%" />
