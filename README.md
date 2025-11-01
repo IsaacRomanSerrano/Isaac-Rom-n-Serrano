@@ -43,7 +43,7 @@ Currently developing cloud-native solutions and automation workflows that enhanc
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/IsaacRomanSerrano/portfolio" target="_blank">
-        <img src="https://github.com/IsaacRomanSerrano/portfolio/blob/main/preview.png" alt="Portfolio project" width="100%" />
+        <img src="pro3.png" alt="Portfolio project" width="100%" />
         <h3>Portfolio deployed through AWS</h3>
         <p>Personal portfolio website hosted on AWS S3 and deployed via Route 53 and CloudFront. Includes responsive design and integrated CV.</p>
       </a>
