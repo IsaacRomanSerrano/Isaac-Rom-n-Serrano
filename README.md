@@ -54,7 +54,7 @@ Currently developing cloud-native solutions and automation workflows that enhanc
         <p align="center">
           <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro2.png" alt="Dockerized App" width="100%" />
         <h3>Dockerized App: Deployed on ECS Fargate</h3>
-        <p>Containerized web application deployed on AWS ECS Fargate with CI/CD integration and scalable architecture.</p>
+        <p>Containerized web application deployed on AWS EKS with CI/CD integration and scalable architecture.</p>
       </a>
     </td>
     <td width="33%" align="center">
@@ -62,7 +62,7 @@ Currently developing cloud-native solutions and automation workflows that enhanc
         <p align="center">
           <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro3.png" alt="Terraform IaC" width="100%" />
         <h3>Infrastructure as Code: Terraform (VPC + EC2 + S3)</h3>
-        <p>Infrastructure automation using Terraform to provision a secure AWS environment including networking and compute resources.</p>
+        <p>Infrastructure automation using Terraform to provision a secure AWS environment.</p>
       </a>
     </td>
   </tr>
