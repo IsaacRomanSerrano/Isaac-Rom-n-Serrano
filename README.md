@@ -55,7 +55,7 @@ Currently developing cloud-native solutions and automation workflows that enhanc
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/IsaacRomanSerrano/Dockerized-App" target="_blank">
         <img src="https://github.com/IsaacRomanSerrano/Isaac-Rom-n-Serrano/blob/ab3e8c099cf91600588632268cdacdbdce805107/pro2.png" alt="Dockerized App" width="100%" />
-        <h3>Dockerized App</h3>
+        <h3>Dockerized App: EKS</h3>
         <p align="justify" style="min-height: 90px;">
           Containerized web application deployed on AWS EKS with CI/CD integration and scalable architecture.
         </p>
